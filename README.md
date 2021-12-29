@@ -11,7 +11,8 @@ Santali Version of Falling Words
 If it touches the <b>cyan line</b> . <b style="color: red">you lose</b>
 </p>
 
-DEMO: https://rt-falling-words.netlify.app/
+Santali Version: https://prasanta-hembram.github.io/falling-words-game/
+English Version: https://rt-falling-words.netlify.app/
 
 ## Game difficulties
 
