@@ -1,3 +1,5 @@
+Santali Version of Falling Words
+
 # TP Aplicaciones Moviles - Game (Javascript)
 
 <p align="center"><img src="./images/logo-game.png" alt="logo"></p>
